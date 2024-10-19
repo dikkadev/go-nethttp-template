@@ -7,7 +7,7 @@ import (
 	"log/slog"
 	"net/http"
 
-	"github.com/sett17/prettyslog"
+	"github.com/dikkadev/prettyslog"
 )
 
 func main() {
